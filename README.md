@@ -34,6 +34,11 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 **Skills Demonstrated:**  
 -- Excel  
 -- Tableau  
+-- Analytics & Insights  
+-- Data Cleanup  
+-- Data Interpretation  
+-- Data Visualisation  
+-- Visual Basics
 
 **Files Attached:**
 1) Raw data
